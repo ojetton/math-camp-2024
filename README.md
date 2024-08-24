@@ -1,7 +1,7 @@
 # Economics Ph.D. Math Camp, Fall 2024
 ## University of Oregon
 
-Welcome to the GitHub page for Math Camp! Below you will find the links for all the resources you will need during this course. Math Camp will consist of 6 modules covered over 10 two-hour periods (9:00 am - 11:00 am, Monday - Friday) from September 9th to the 20th. Each module will be covered over two weekdays during this time according to the following schedule:
+Welcome to the GitHub page for Math Camp! Below are the links for all the resources you will need during this course. Math Camp will consist of 6 modules covered over 10 two-hour periods (9:00 am - 11:00 am, Monday - Friday) from September 9th to the 20th. Each module will be covered over two weekdays during this time according to the following schedule:
 
 **Day 1, hour 1** - Zoom lecture covering the module’s content
 
@@ -23,6 +23,32 @@ Welcome to the GitHub page for Math Camp! Below you will find the links for all 
 Read before September 9th
 
 ## [Module 1: Linear Spaces and Linear Maps](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_1_text.pdf)
+
+Sept. 9 & 10th
+
+## [Module 2: Coordinates and Matrices](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_2_text.pdf)
+
+Sept. 11 & 12th
+
+## [Module 3: Metric Spaces and Continuity](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_3_text.pdf)
+
+Sept. 13 & 17th
+
+## [Module 4: Univariate Functions](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_4_text.pdf)
+
+Sept. 16 & 17th
+
+## [Module 5: Multivariate Functions](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_5_text.pdf)
+
+Sept. 18 & 20th
+
+## [Module 6: Optimization](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_6_text.pdf)
+
+Sept. 19 & 20th
+
+
+
+
 
 
 
