@@ -15,9 +15,9 @@ Welcome to the GitHub page for Math Camp! Below are the links for all the resour
 
 ## [Zoom Link](https://uoregon.zoom.us/j/96357721832)
 
-9:00 am - 11:00 am each weekday (Sept. 6 - 19)
+9:00 am - 11:00 am each weekday (Sept. 9 - 20)
 
-(You must join from your *@uoregon.edu* account)
+(You **must** join from your *@uoregon.edu* account)
 
 ## [Module 0: Introduction](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_0_text.pdf)
 Read before September 9th
