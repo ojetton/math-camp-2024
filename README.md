@@ -22,9 +22,13 @@ Welcome to the GitHub page for Math Camp! Below are the links for all the resour
 ## [Module 0: Introduction](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_0_text.pdf)
 Read before September 9th
 
+[Slides](https://github.com/ojetton/math-camp-2024/blob/main/Slides/module_0_slides.pdf)
+
 ## [Module 1: Linear Spaces and Linear Maps](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_1_text.pdf)
 
 Sept. 9 & 10th
+
+[Slides](https://github.com/ojetton/math-camp-2024/blob/main/Slides/module_1_slides.pdf)
 
 ## [Module 2: Coordinates and Matrices](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_2_text.pdf)
 
