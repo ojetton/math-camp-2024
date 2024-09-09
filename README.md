@@ -24,11 +24,19 @@ Read before September 9th
 
 [Slides](https://github.com/ojetton/math-camp-2024/blob/main/Slides/module_0_slides.pdf)
 
+[Lecture 1 Recording](https://uoregon.zoom.us/rec/share/k_UlDTxqpIvt4SCQBQMfqupY4tinFYFaGxNOstJC554nkGuOAegvr5rQeNH0jPLf.k9kSfhtptLpwonIJ)
+
+Passcode: oHE6D@b1
+
+Practice Problems: Module 0, exercises: 1, 2, 3
+
 ## [Module 1: Linear Spaces and Linear Maps](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_1_text.pdf)
 
 Sept. 9 & 10th
 
 [Slides](https://github.com/ojetton/math-camp-2024/blob/main/Slides/module_1_slides.pdf)
+
+Practice Problems: Module 1, exercises: 2, 3, 4, 7, 11, 12, 14, 15, 16, 17
 
 ## [Module 2: Coordinates and Matrices](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_2_text.pdf)
 
