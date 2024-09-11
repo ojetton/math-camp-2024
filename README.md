@@ -36,6 +36,10 @@ Sept. 9 & 10th
 
 [Slides](https://github.com/ojetton/math-camp-2024/blob/main/Slides/module_1_slides.pdf)
 
+[Lecture 2 Recording](https://uoregon.zoom.us/rec/share/twhn-U_aG9syb7KI9lCRLNAM_OnYnsMlZkNmDW03ISlzK8p4Su1tkWgit189-QvN.Y4CNXULDIX0j5-jI)
+
+Passcode: Vp0dx7!v
+
 Practice Problems: Module 1, exercises: 2, 3, 4, 7, 11, 12, 14, 15, 16, 17
 
 ## [Module 2: Coordinates and Matrices](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_2_text.pdf)
