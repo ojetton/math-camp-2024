@@ -42,6 +42,8 @@ Practice Problems: Module 1, exercises: 2, 3, 4, 7, 11, 12, 14, 15, 16, 17
 
 Sept. 11 & 12th
 
+[Slides](https://github.com/ojetton/math-camp-2024/blob/main/Slides/module_2_slides.pdf)
+
 ## [Module 3: Metric Spaces and Continuity](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_3_text.pdf)
 
 Sept. 13 & 17th
