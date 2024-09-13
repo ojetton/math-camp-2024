@@ -52,17 +52,26 @@ Sept. 11 & 12th
 
 Sept. 13 & 17th
 
+[Slides](https://github.com/ojetton/math-camp-2024/blob/main/Slides/module_3_slides.pdf)
+
 ## [Module 4: Univariate Functions](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_4_text.pdf)
 
 Sept. 16 & 17th
+
+[Slides](https://github.com/ojetton/math-camp-2024/blob/main/Slides/module_4_slides.pdf)
 
 ## [Module 5: Multivariate Functions](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_5_text.pdf)
 
 Sept. 18 & 20th
 
+[Slides](https://github.com/ojetton/math-camp-2024/blob/main/Slides/module_5_slides.pdf)
+
 ## [Module 6: Optimization](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_6_text.pdf)
 
 Sept. 19 & 20th
+
+[Slides](https://github.com/ojetton/math-camp-2024/blob/main/Slides/module_6_slides.pdf)
+
 
 
 
