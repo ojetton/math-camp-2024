@@ -52,6 +52,10 @@ Practice Problems: Module 2, Exercises 7, 8, 10, 11, 12, 13, 15, 16, 19, 21, 25,
 
 Note: We did not cover the material for Exercises 25 and 26 in class, however, I encourage you to give them a shot. 
 
+[Lecture 3 Recording](https://uoregon.zoom.us/rec/share/rYKPcz5GBTfiRKAyY-NM5j2khfzZrwL8Zn9y9XIVzWpCIirdmBH2e3-ErLcZ_-KY.szijFZEg3nz586mw)
+
+(Includes Module 3) Passcode: =*jJV5Y=
+
 ## [Module 3: Metric Spaces and Continuity](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_3_text.pdf)
 
 Sept. 13 & 17th
