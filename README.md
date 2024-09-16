@@ -48,7 +48,7 @@ Sept. 11 & 12th
 
 [Slides](https://github.com/ojetton/math-camp-2024/blob/main/Slides/module_2_slides.pdf)
 
-Practice Problems: Module 2, Exercises 7, 8, 10, 11, 12, 13, 15, 16, 19, 21, 25, 26
+**Practice Problems**: Module 2, Exercises 7, 8, 10, 11, 12, 13, 15, 16, 19, 21, 25, 26
 
 Note: We did not cover the material for Exercises 25 and 26 in class, however, I encourage you to give them a shot. 
 
@@ -67,6 +67,12 @@ Sept. 13 & 17th
 Sept. 16 & 17th
 
 [Slides](https://github.com/ojetton/math-camp-2024/blob/main/Slides/module_4_slides.pdf)
+
+**Practice Problems**: Module 4, Exercises 8, 9, 12, 15, 17, 18
+
+[Lecture 4 Recording](https://uoregon.zoom.us/rec/share/Rnl7_FYd4bwQmym8NzNyKJDN5g60y7UAXzaPOlUezYKEXZFjBiqAKJ-oF3nVSh23.U_6dKf12JG5p1Baz)
+
+Passcode: *y4t3?#X
 
 ## [Module 5: Multivariate Functions](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_5_text.pdf)
 
