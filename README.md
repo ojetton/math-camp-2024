@@ -80,6 +80,8 @@ Sept. 18 & 20th
 
 [Slides](https://github.com/ojetton/math-camp-2024/blob/main/Slides/module_5_slides.pdf)
 
+**Practice Problems**: Module 5, Exercises 4, 5, 7, 8, 9, 10
+
 ## [Module 6: Optimization](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_6_text.pdf)
 
 Sept. 19 & 20th
