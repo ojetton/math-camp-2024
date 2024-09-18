@@ -82,6 +82,10 @@ Sept. 18 & 20th
 
 **Practice Problems**: Module 5, Exercises 4, 5, 7, 8, 9, 10
 
+[Lecture 5 Recording](https://uoregon.zoom.us/rec/share/TW7Ulrkp_quO4LmdK1LqhUFktGqqIV2u5CzamlN07uLmc3Tsf71hZ-KLxjcElIG-.dSj32zhVl9IgozIH)
+
+Passcode: UBN.6sJj
+
 ## [Module 6: Optimization](https://github.com/ojetton/math-camp-2024/blob/main/Modules/module_6_text.pdf)
 
 Sept. 19 & 20th
